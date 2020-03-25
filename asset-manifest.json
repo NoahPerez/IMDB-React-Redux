@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IMDB-React-Redux/static/css/main.52226f6f.chunk.css",
+    "main.js": "/IMDB-React-Redux/static/js/main.8444b128.chunk.js",
+    "main.js.map": "/IMDB-React-Redux/static/js/main.8444b128.chunk.js.map",
+    "runtime-main.js": "/IMDB-React-Redux/static/js/runtime-main.e7739be8.js",
+    "runtime-main.js.map": "/IMDB-React-Redux/static/js/runtime-main.e7739be8.js.map",
+    "static/js/2.0cba65d9.chunk.js": "/IMDB-React-Redux/static/js/2.0cba65d9.chunk.js",
+    "static/js/2.0cba65d9.chunk.js.map": "/IMDB-React-Redux/static/js/2.0cba65d9.chunk.js.map",
+    "index.html": "/IMDB-React-Redux/index.html",
+    "precache-manifest.f6a77b8b57cb924211b9e44d50fcd1a1.js": "/IMDB-React-Redux/precache-manifest.f6a77b8b57cb924211b9e44d50fcd1a1.js",
+    "service-worker.js": "/IMDB-React-Redux/service-worker.js",
+    "static/css/main.52226f6f.chunk.css.map": "/IMDB-React-Redux/static/css/main.52226f6f.chunk.css.map",
+    "static/js/2.0cba65d9.chunk.js.LICENSE.txt": "/IMDB-React-Redux/static/js/2.0cba65d9.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/IMDB-React-Redux/static/media/spinner.e26d873e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7739be8.js",
+    "static/js/2.0cba65d9.chunk.js",
+    "static/css/main.52226f6f.chunk.css",
+    "static/js/main.8444b128.chunk.js"
+  ]
+}
