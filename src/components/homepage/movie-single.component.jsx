@@ -16,13 +16,13 @@ class MovieSingle extends React.Component {
         let movieInfo = (
             <div className="container">
                 <div className="row">
-                    <div className="col-xs-12 col-md-4 col-lg-12 card card-body ">
+                    <div className="col-xs-12 col-md-4  card card-body ">
                         <img src={movie.Poster} className="thumbnail" alt="Poster" />
                         <hr />
                         <h3>About </h3>
                         {movie.Plot}
                     </div>
-                    <div className="col-xs-12 col-md-8 col-lg-12">
+                    <div className="col-xs-12 col-md-8">
                         <h2 className="mb-3">{movie.Title}</h2>
                         <ul className="list-group">
                             <li className="list-group-item">
